@@ -20,7 +20,7 @@
 <img src="https://github.com/DmitreeV/DmitreeV/blob/main/image/postman-logo-0087ca0d15-seeklogo-com.svg" title="postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/DmitreeV/DmitreeV/blob/main/image/swagger-logo.svg" title="swagger" width="40" height="40"/>&nbsp;
 
-JAVA / SPRING / DOCKER / SQL / POSTMAN / Swagger / JUnit
+JAVA / MAVEN / SPRING / DOCKER / SQL / POSTMAN / Swagger / JUnit
 
 ### Мои контакты:
 
