@@ -27,9 +27,6 @@ JAVA / MAVEN / SPRING / DOCKER / SQL / POSTMAN / Swagger / JUnit
 <a href="https://t.me/kirizli">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
-<a href="mailto:mardaliev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 ---
 ![](https://komarev.com/ghpvc/?username=Anarmard&abbreviated=true&color=grey)
